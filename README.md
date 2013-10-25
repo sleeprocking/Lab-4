@@ -8,8 +8,8 @@ These drivers
 
 -Initializes the LCD
 
-- Initializes the SPI
-- 
+-Initializes the SPI
+ 
 -Clears the LCD
 
 -Can set the cursor to line 1 or 2
